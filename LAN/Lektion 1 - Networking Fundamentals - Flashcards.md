@@ -24,7 +24,7 @@ What is a unicast message?;; Sender to one reciever
 What is a multicast message?;; Sender to a specific group of recievers
 What is a broadcast message?;; Sender to everyone
 
-What are the 7 steps of the OSI model? (Start from the bottom)
+What are the 7 steps of the OSI model?
 ?
 1. Physical
 2. Data Link

@@ -1,3 +1,16 @@
+<!-- TOC start  -->
+# Table of Contents
+- [Nackademin Flashcards](#nackademin%20flashcards)
+	- [Om Obsidian](#om%20obsidian)
+	- [Flashcards i Obsidian](#flashcards%20i%20obsidian)
+- [Vad gör jag när jag har installerat Obsidian och klonat repot?](#vad%20gör%20jag%20när%20jag%20har%20installerat%20obsidian%20och%20klonat%20repot)
+	- [Farbror Tomi, hur skapar man flashcards?](#farbror%20tomi%20hur%20skapar%20man%20flashcards)
+- [Bidra](#bidra)
+	- [Skapa en Pull Request från en Fork till Master-Branch](#skapa%20en%20pull%20request%20från%20en%20fork%20till%20master-branch)
+	- [Uppdatera en Fork med Ändringar från Master-Branch](#uppdatera%20en%20fork%20med%20ändringar%20från%20master-branch)
+
+<!-- TOC end -->
+
 # Nackademin Flashcards
 Välkommen till klassens GitHub Repository för Obsidian Flashcards! Det här repot innehåller en samling flashcards som är skapade för att användas tillsammans med Obsidian, en kraftfull kunskapsbas och anteckningsapp. Detta projekt är gjort för klassen och kommer uppdateras framöver. Tanken är att vi tillsammans skapar frågor och svar som vi kan använda för att studera inför tentor.
 
@@ -23,7 +36,7 @@ Separator for inline flashcards borde vara ';;'
 
 Klicka på ikonen här under för att starta Spaced Repetition (flashcards) pluginet
 ![[Capture.PNG]]
-#### Farbror Tomi, hur skapar man flashcards?
+### Farbror Tomi, hur skapar man flashcards?
 Jo min son, du börjar med att skapa ett dokument innuti rätt kursmapp och döper det till något logiskt så att vi andra förstår.
 
 Du kan skapa flashcards på två sätt:
@@ -38,10 +51,10 @@ svar
 svar
 svar
 
-Notera: om du använder det andra sättet måste det vara mellanrum innan frågan och efter sista svaret, annars kan det bli tokigt. Du kan se 
+Notera: om du använder det andra sättet måste det vara mellanrum innan frågan och efter sista svaret, annars kan det bli tokigt. Ett exempel finns i repot.
 
 ## Bidra
-#### Skapa en Pull Request från en Fork till Master-Branch
+### Skapa en Pull Request från en Fork till Master-Branch
 
 För att skapa en pull request från en fork till din master-branch via terminalen, bör bidragsgivaren följa dessa steg:
 
@@ -78,29 +91,24 @@ git push origin ny-branch
 
 ### Uppdatera en Fork med Ändringar från Master-Branch
 
-För att uppdatera en fork med ändringar från din master-branch, bör andra användare följa dessa steg:
+För att uppdatera en fork med ändringar från master-branchen, bör andra användare följa dessa steg:
 
-1.  Klona deras fork till den lokala datorn (om de inte redan har gjort det) med kommandot:
-```bash
-git clone https://github.com/PapaPeskwo/nackademin-flashcards
-```
-
-2.  Lägg till din master-branch som en "remote" för att kunna synkronisera ändringar:
+1.  Lägg till din master-branch som en "remote" för att kunna synkronisera ändringar:
 ```bash
 git remote add upstream https://github.com/PapaPeskwo/nackademin-flashcards
 ```
 
-3.  Hämta ändringarna från din master-branch:
+2.  Hämta ändringarna från din master-branch:
 ```bash
 git fetch upstream
 ```
 
-4.  Byt till deras lokala master-branch:
+3.  Byt till deras lokala master-branch:
 ```bash
 git checkout master
 ```
 
-5.  Merge ändringarna från din master-branch in i deras lokala master-branch:
+4.  Merge ändringarna från din master-branch in i deras lokala master-branch:
 ```bash
 git merge upstream/master
 ```
