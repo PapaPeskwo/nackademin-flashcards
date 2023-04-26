@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "1c97c2e4cc713acd",
+    "type": "split",
+    "children": [
+      {
+        "id": "37ecc8519c9e203c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5d8669e06612cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LAN/Lektion 2 - Ethernet Switches, VLANs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c990faf9c2243cc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6560448b2411dfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b403a94b64a55253",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fb7aaf26806cca8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "800588236d80e776",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "right": {
+    "id": "6318bdc009d1cd2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "34aa21002c7843ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7acb2047772bf105",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LAN/Lektion 2 - Ethernet Switches, VLANs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14c604e788a3263b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LAN/Lektion 2 - Ethernet Switches, VLANs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b48611e3056680e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4bb87a4b5c0d19a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LAN/Lektion 2 - Ethernet Switches, VLANs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "flashcards-obsidian:Generate flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b403a94b64a55253",
+  "lastOpenFiles": [
+    "_Pasted_images/Pasted image 20230420180713.png",
+    "_Pasted_images",
+    "LAN/Lektion 1 Networking Fundamentals - Flashcards.md",
+    "LAN/Lektion 2 - Ethernet Switches, VLANs.md",
+    "README.md",
+    "LAN/Inlämningsuppgift 5. Static Routing.md",
+    "LAN/Inlämningsuppgift 4. Connecting Router to a LAN (Cisco Packet Tracer).md",
+    "LAN/inlup3 LAN.md",
+    "LAN"
+  ]
+}
