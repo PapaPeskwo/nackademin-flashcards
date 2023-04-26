@@ -41,6 +41,7 @@ Jo min son, du börjar med att skapa ett dokument innuti rätt kursmapp och döp
 
 Du kan skapa flashcards på två sätt:
 
+```
 fråga;;svar
 
 eller
@@ -50,6 +51,7 @@ fråga
 svar
 svar
 svar
+```
 
 Notera: om du använder det andra sättet måste det vara mellanrum innan frågan och efter sista svaret, annars kan det bli tokigt. Ett exempel finns i repot.
 
