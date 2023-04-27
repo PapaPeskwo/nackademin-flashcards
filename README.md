@@ -1,13 +1,14 @@
 <!-- TOC start  -->
 # Table of Contents
-- [Nackademin Flashcards](#nackademin%20flashcards)
-	- [Om Obsidian](#om%20obsidian)
-	- [Flashcards i Obsidian](#flashcards%20i%20obsidian)
-- [Vad gör jag när jag har installerat Obsidian och klonat repot?](#vad%20gör%20jag%20när%20jag%20har%20installerat%20obsidian%20och%20klonat%20repot)
-	- [Farbror Tomi, hur skapar man flashcards?](#farbror%20tomi%20hur%20skapar%20man%20flashcards)
-- [Bidra](#bidra)
-	- [Skapa en Pull Request från en Fork till Master-Branch](#skapa%20en%20pull%20request%20från%20en%20fork%20till%20master-branch)
-	- [Uppdatera en Fork med Ändringar från Master-Branch](#uppdatera%20en%20fork%20med%20ändringar%20från%20master-branch)
+- [Table of Contents](#table-of-contents)
+- [Nackademin Flashcards](#nackademin-flashcards)
+	- [Om Obsidian](#om-obsidian)
+	- [Flashcards i Obsidian](#flashcards-i-obsidian)
+- [Vad gör jag när jag har installerat Obsidian och klonat repot?](#vad-gör-jag-när-jag-har-installerat-obsidian-och-klonat-repot)
+		- [Farbror Tomi, hur skapar man flashcards?](#farbror-tomi-hur-skapar-man-flashcards)
+	- [Bidra](#bidra)
+		- [Skapa en Pull Request från en Fork till Master-Branch](#skapa-en-pull-request-från-en-fork-till-master-branch)
+		- [Uppdatera en Fork med Ändringar från Master-Branch](#uppdatera-en-fork-med-ändringar-från-master-branch)
 
 <!-- TOC end -->
 
@@ -41,7 +42,6 @@ Jo min son, du börjar med att skapa ett dokument innuti rätt kursmapp och döp
 
 Du kan skapa flashcards på två sätt:
 
-```
 fråga;;svar
 
 eller
@@ -51,26 +51,25 @@ fråga
 svar
 svar
 svar
-```
 
 Notera: om du använder det andra sättet måste det vara mellanrum innan frågan och efter sista svaret, annars kan det bli tokigt. Ett exempel finns i repot.
 
 ## Bidra
 ### Skapa en Pull Request från en Fork till Master-Branch
-
+(Kommer ej ihåg om dessa steg är korrekta så om någon provar och det blir fel så får ni gärna rätta mig.)
 För att skapa en pull request från en fork till din master-branch via terminalen, bör bidragsgivaren följa dessa steg:
 
-1.  Klona deras fork till den lokala datorn (om de inte redan har gjort det) med kommandot:
+1.  Klona forken till den lokala datorn (om de inte redan har gjort det) med kommandot:
 ```bash
-git clone https://github.com/PapaPeskwo/nackademin-flashcards
+git clone https://github.com/<ditt_användarnamn>/nackademin-flashcards
 ```
 
-2.  Lägg till din master-branch som en "remote" för att kunna synkronisera ändringar:
+1.  Lägg till master-branchen som en "remote" för att kunna synkronisera ändringar:
 ```bash
 git remote add upstream https://github.com/PapaPeskwo/nackademin-flashcards
 ```
 
-3.  Skapa en ny branch där de kan göra sina ändringar:
+1.  Skapa en ny branch där de kan göra sina ändringar:
 ```bash
 git checkout -b ny-branch
 ```

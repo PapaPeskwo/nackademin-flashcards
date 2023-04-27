@@ -1,5 +1,5 @@
 ---
-tags: Test
+tags: Network
 ---
 
 What is a default gateway?

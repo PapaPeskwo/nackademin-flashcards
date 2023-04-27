@@ -3,7 +3,7 @@ tags: Network
 ---
 
 How do you troubleshoot according to the OSI model?;; downwards-up
-![[Pasted image 20230420180713.png]]What is this called?;; A bus/collision domain
+![[Pasted image 20230420180713.png]]What kind of topology is this?;; Bus topology
 Which IEEE workgroup handles ethernet?;; 802.3
 What does CSMA stand for?;; Carrier Sense Multiple Access
 Which IEEE workgroup handles wireless networks?;; 802.11

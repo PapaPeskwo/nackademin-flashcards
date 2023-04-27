@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "11cb78e678e4ca58",
+        "id": "33a5d5e2182313ac",
         "type": "tabs",
         "children": [
           {
-            "id": "67eacc4cf246d677",
+            "id": "3431934a619f383e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "6318bdc009d1cd2b",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,21 +148,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "67eacc4cf246d677",
+  "active": "3431934a619f383e",
   "lastOpenFiles": [
-    "LAN/Lektion 4 - Cisco Routers, IPv4 Static Routes, RIPv2.md",
-    "exempel.md",
-    "README.md",
     "LAN/Lektion 3 - IPv4 Addressing & Subnetting (and L4 protocols & intro Cisco routers).md",
+    "LAN/Lektion 5 - IPv4 Design, VLSM.md",
+    "LAN/Lektion 4 - Cisco Routers, IPv4 Static Routes, RIPv2.md",
+    "_Pasted_images/Pasted image 20230427151411.png",
+    "LAN/Cisco CCNA (200-301) 2022 Course.md",
+    "LAN/Lektion 1 - Networking Fundamentals - Flashcards.md",
+    "LAN/Lektion 2 - Ethernet Switches, VLANs.md",
+    "_Pasted_images/Pasted image 20230427141758.png",
+    "_Pasted_images/Pasted image 20230420180713.png",
     "_Pasted_images/OSI_model.png",
     "_Pasted_images/OSI_model_fråga.png",
     "_Pasted_images/data_solution.png",
     "_Pasted_images/data_question.png",
-    "_Pasted_images/data_solution.bmp",
-    "LAN/Lektion 2 - Ethernet Switches, VLANs.md",
-    "LAN/Lektion 1 - Networking Fundamentals - Flashcards.md",
     "_Pasted_images/Capture.PNG",
-    "_Pasted_images/Pasted image 20230420180713.png",
+    "README.md",
+    "exempel.md",
+    "_Pasted_images/data_solution.bmp",
     "_Pasted_images",
     "LAN/Inlämningsuppgift 5. Static Routing.md",
     "LAN/Inlämningsuppgift 4. Connecting Router to a LAN (Cisco Packet Tracer).md",
