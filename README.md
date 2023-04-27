@@ -45,13 +45,14 @@ Du kan skapa flashcards på två sätt:
 fråga;;svar
 
 eller
-
+```
 fråga
 ?
 svar
 svar
 svar
-
+```
+(se exempel filen eller checka in de existerande filerna)
 Notera: om du använder det andra sättet måste det vara mellanrum innan frågan och efter sista svaret, annars kan det bli tokigt. Ett exempel finns i repot.
 
 ## Bidra
