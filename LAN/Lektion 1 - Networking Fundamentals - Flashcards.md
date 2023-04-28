@@ -20,9 +20,12 @@ WLAN (Wireless LAN)
 SAN (Storage Area Network)
 
 How do you connect two remote LANs?;; Via WAN
+<!--SR:!2023-04-29,1,230-->
 What is a unicast message?;; Sender to one reciever
 What is a multicast message?;; Sender to a specific group of recievers
+<!--SR:!2023-04-29,1,230-->
 What is a broadcast message?;; Sender to everyone
+<!--SR:!2023-04-29,1,230-->
 
 What are the 7 steps of the OSI model?
 ?
@@ -42,4 +45,5 @@ Internet
 Network Access
 
 What is the IEEE group number standard?;; 802
+<!--SR:!2023-04-29,1,230-->
 

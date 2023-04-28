@@ -11,11 +11,28 @@
             "id": "3431934a619f383e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LAN/Cisco CCNA (200-301) 2022 Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26c5a7b67b5aaa5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LAN/Cisco CCNA in 60 Days.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LAN/Cisco CCNA in 60 Days.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LAN/Cisco CCNA in 60 Days.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LAN/Cisco CCNA in 60 Days.md"
+              }
             }
           },
           {
@@ -148,13 +169,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3431934a619f383e",
+  "active": "26c5a7b67b5aaa5b",
   "lastOpenFiles": [
     "LAN/Lektion 3 - IPv4 Addressing & Subnetting (and L4 protocols & intro Cisco routers).md",
-    "LAN/Lektion 5 - IPv4 Design, VLSM.md",
     "LAN/Lektion 4 - Cisco Routers, IPv4 Static Routes, RIPv2.md",
-    "_Pasted_images/Pasted image 20230427151411.png",
+    "LAN/Lektion 5 - IPv4 Design, VLSM.md",
+    "LAN/Cisco CCNA in 60 Days.md",
     "LAN/Cisco CCNA (200-301) 2022 Course.md",
+    "_Pasted_images/Pasted image 20230428122903.png",
+    "_Pasted_images/Pasted image 20230428122842.png",
+    "_Pasted_images/Pasted image 20230428122821.png",
+    "_Pasted_images/Pasted image 20230428122754.png",
+    "_Pasted_images/Pasted image 20230427151411.png",
     "LAN/Lektion 1 - Networking Fundamentals - Flashcards.md",
     "LAN/Lektion 2 - Ethernet Switches, VLANs.md",
     "_Pasted_images/Pasted image 20230427141758.png",
@@ -162,11 +188,8 @@
     "_Pasted_images/OSI_model.png",
     "_Pasted_images/OSI_model_fråga.png",
     "_Pasted_images/data_solution.png",
-    "_Pasted_images/data_question.png",
-    "_Pasted_images/Capture.PNG",
     "README.md",
     "exempel.md",
-    "_Pasted_images/data_solution.bmp",
     "_Pasted_images",
     "LAN/Inlämningsuppgift 5. Static Routing.md",
     "LAN/Inlämningsuppgift 4. Connecting Router to a LAN (Cisco Packet Tracer).md",

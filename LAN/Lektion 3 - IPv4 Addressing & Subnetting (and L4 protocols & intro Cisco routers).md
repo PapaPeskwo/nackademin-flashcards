@@ -11,6 +11,7 @@ Source: [Lifewire](https://www.lifewire.com/what-is-a-default-gateway-817771)
 what is a subnet mask
 
 What does CIDR stand for?;;Classless Internet Domain Routing
+<!--SR:!2023-04-29,1,230-->
 
 List some well known TCP ports
 ?
@@ -23,6 +24,7 @@ List some well known TCP ports
 | 110  | POP3                      |
 | 194  | Internet Relay Chat (IRC) |
 | 443  | Secure HTTP (HTTPS)       | 
+<!--SR:!2023-04-29,1,230-->
 
 What do the left brackets indicate?
 ![[OSI_model_fråga.png]]
@@ -32,6 +34,7 @@ Fill in the blank boxes
 ![[data_question.png]]
 ?
 ![[data_solution.png]]
+<!--SR:!2023-04-29,1,230-->
 
 What are some characteristics of UDP, and can you provide examples of applications that use this protocol?
 ?
