@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3e229da7ff3b9bb6",
+        "id": "d414dc5453b0f687",
         "type": "tabs",
         "children": [
           {
-            "id": "0896dbe03842cd1b",
+            "id": "77965b0932011c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd3a95f03a2b95da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "LAN/Lektion 7.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,16 +177,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0896dbe03842cd1b",
+  "active": "bd3a95f03a2b95da",
   "lastOpenFiles": [
+    "LAN/Lektion 6 - ACLs and NAT.md",
+    "LAN/Lektion 7.md",
+    "LAN/Lektion 5 - IPv4 Design, VLSM.md",
+    "README.md",
     "_Pasted_images/Pasted image 20230428122903.png",
     "_Pasted_images/Pasted image 20230428122842.png",
     "_Pasted_images/Pasted image 20230428122821.png",
     "_Pasted_images/Pasted image 20230428122754.png",
     "LAN/Cisco CCNA in 60 Days.md",
-    "README.md",
-    "LAN/Lektion 5 - IPv4 Design, VLSM.md",
-    "LAN/Lektion 7.md",
     "LAN/Lektion 3 - IPv4 Addressing & Subnetting (and L4 protocols & intro Cisco routers).md",
     "LAN/Lektion 4 - Cisco Routers, IPv4 Static Routes, RIPv2.md",
     "_Pasted_images/Pasted image 20230427151411.png",
@@ -185,7 +199,6 @@
     "_Pasted_images/OSI_model.png",
     "_Pasted_images/OSI_model_fråga.png",
     "_Pasted_images/data_solution.png",
-    "_Pasted_images/data_question.png",
     "exempel.md",
     "_Pasted_images",
     "LAN/Inlämningsuppgift 5. Static Routing.md",
