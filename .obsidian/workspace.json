@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "33a5d5e2182313ac",
+        "id": "3e229da7ff3b9bb6",
         "type": "tabs",
         "children": [
           {
-            "id": "3431934a619f383e",
+            "id": "0896dbe03842cd1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LAN/Lektion 7.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b66951a67dea9f49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LAN/Lektion 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LAN/Lektion 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LAN/Lektion 7.md"
+              }
             }
           },
           {
@@ -148,10 +164,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3431934a619f383e",
+  "active": "0896dbe03842cd1b",
   "lastOpenFiles": [
-    "LAN/Lektion 3 - IPv4 Addressing & Subnetting (and L4 protocols & intro Cisco routers).md",
+    "README.md",
     "LAN/Lektion 5 - IPv4 Design, VLSM.md",
+    "LAN/Lektion 7.md",
+    "LAN/Lektion 3 - IPv4 Addressing & Subnetting (and L4 protocols & intro Cisco routers).md",
     "LAN/Lektion 4 - Cisco Routers, IPv4 Static Routes, RIPv2.md",
     "_Pasted_images/Pasted image 20230427151411.png",
     "LAN/Cisco CCNA (200-301) 2022 Course.md",
@@ -164,7 +182,6 @@
     "_Pasted_images/data_solution.png",
     "_Pasted_images/data_question.png",
     "_Pasted_images/Capture.PNG",
-    "README.md",
     "exempel.md",
     "_Pasted_images/data_solution.bmp",
     "_Pasted_images",
