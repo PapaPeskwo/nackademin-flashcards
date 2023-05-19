@@ -43,3 +43,5 @@ UDP has a "send and pray" approach (no guaranteed delivery), is connectionless a
 What are some characteristics of TCP, and can you provide examples of applications that use this protocol?
 ?
 TCP is connection-oriented with guaranteed delivery and requires acknowledgment of received data. Examples of applications that use TCP include web browsing, email, FTP, and Telnet.
+
+What is the loopback address for localhost in IPv4?;; 127.0.0.1 
