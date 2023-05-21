@@ -120,3 +120,8 @@ Vilket portnummer använder SSH och använder den TCP eller UDP?;; Port 22 och T
 Vilket portnummer använder DNS och använder den TCP eller UDP?;; Port 53 och UDP
 <!--SR:!2023-05-22,1,224-->
 Vilket portnummer använder DHCP och använder den TCP eller UDP?;; Port 67+68 och UDP
+
+What kind of topology is this and what does it send?
+![[Pasted image 20230521175026_2.png]]
+?
+![[Pasted image 20230521175026.png]]
