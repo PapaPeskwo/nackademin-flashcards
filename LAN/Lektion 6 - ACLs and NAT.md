@@ -21,3 +21,11 @@ What is the result?
 
 What are 'The Three Ps' in ACLs referring to?;; One ACL **per protocol**, one ACL **per direction**, one ACL **per interface**
 
+How do you create a numbered IP ACL in Packet Tracer?
+?
+In each router, type in:
+```
+ena 
+conf t
+access-list 10 permit host <ip_address>
+```

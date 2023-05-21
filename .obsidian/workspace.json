@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "265854ea08edee95",
+        "id": "b0273a8c44427ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "13aeb5ee26963efc",
+            "id": "122a714b1a7bd215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LAN/Lektion 7 - IPv4 Routing Protocol OSPF, (EIGRP).md",
+                "file": "LAN/Repetition och Förberedelse.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "40f3937cd7d007da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LAN/Lektion 3 - IPv4 Addressing & Subnetting (and L4 protocols & intro Cisco routers).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LAN/Lektion 7 - IPv4 Routing Protocol OSPF, (EIGRP).md",
+                "file": "LAN/Lektion 3 - IPv4 Addressing & Subnetting (and L4 protocols & intro Cisco routers).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LAN/Lektion 7 - IPv4 Routing Protocol OSPF, (EIGRP).md",
+                "file": "LAN/Lektion 3 - IPv4 Addressing & Subnetting (and L4 protocols & intro Cisco routers).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LAN/Lektion 7 - IPv4 Routing Protocol OSPF, (EIGRP).md"
+                "file": "LAN/Lektion 3 - IPv4 Addressing & Subnetting (and L4 protocols & intro Cisco routers).md"
               }
             }
           },
@@ -164,15 +177,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "13aeb5ee26963efc",
+  "active": "40f3937cd7d007da",
   "lastOpenFiles": [
-    "LAN/Lektion 6 - ACLs and NAT.md",
-    "LAN/Lektion 7 - IPv4 Routing Protocol OSPF, (EIGRP).md",
-    "LAN/Lektion 5 - IPv4 Design, VLSM.md",
-    "LAN/Lektion 3 - IPv4 Addressing & Subnetting (and L4 protocols & intro Cisco routers).md",
-    "LAN/Lektion 4 - Cisco Routers, IPv4 Static Routes, RIPv2.md",
+    "LAN/Lektion 2 - Ethernet Switches, VLANs.md",
     "LAN/Lektion 1 - Networking Fundamentals.md",
     "LAN/Cisco CCNA in 60 Days.md",
+    "LAN/Lektion 7 - IPv4 Routing Protocol OSPF, (EIGRP).md",
+    "LAN/Lektion 6 - ACLs and NAT.md",
+    "LAN/Lektion 5 - IPv4 Design, VLSM.md",
+    "LAN/Lektion 4 - Cisco Routers, IPv4 Static Routes, RIPv2.md",
+    "LAN/Lektion 3 - IPv4 Addressing & Subnetting (and L4 protocols & intro Cisco routers).md",
+    "LAN/Repetition och Förberedelse.md",
+    "README.md",
+    "_Pasted_images/5XQ7mGYPAbT-hVya3vGWkO_2RusiolE2iRbRTSpW1ptsUIL0EmM28mCzaVXTOHnbK1-IlhtfoDJvYWlqT4BVukiR_ImD1VHQy1eDgwY_ZUBQ2F8AGAAJxidD_uFyJLjI.png",
+    "_Pasted_images/0PHJNWBk3M2OIDB-zSp42_OTBvPlvu1bsNNJ_OU6uinMrpV7ni5SGCRR4tZluS7d9_cHbYFrBxxpZBAHd6HPLr4s9O4LiUR6tuyn5xEL-xTeTSBuTYIy-516FFERA2A6.png",
+    "_Pasted_images/pULVa8U6xwmr-gACZk8O3BK8slB4PBZm2-jooSz9P_wrbjSFUx_5iHgNJ3KBuLEMqdh-LSUMsI_wiLxJc1w5_WAWwhg-TKlDURlOL3OGi7OwfOX3YTUL6lw9xxDzlZzP.png",
     "_Pasted_images/ex1a.png",
     "Pasted image 20230519153511.png",
     "_Pasted_images/ex3b.png",
@@ -180,12 +199,7 @@
     "_Pasted_images/ex2a.png",
     "_Pasted_images/ex2b.png",
     "_Pasted_images/ex1b.png",
-    "ex1.png",
-    "README.md",
-    "_Pasted_images/Pasted image 20230428122903.png",
-    "_Pasted_images/Pasted image 20230428122842.png",
     "LAN/Cisco CCNA (200-301) 2022 Course.md",
-    "LAN/Lektion 2 - Ethernet Switches, VLANs.md",
     "exempel.md",
     "_Pasted_images",
     "LAN/Inlämningsuppgift 5. Static Routing.md",
